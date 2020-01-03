@@ -2,7 +2,7 @@
 
 ** This is a work in progress **
 
-## Problem Statement:
+## Problem Statement
 
 Explore MBTA's subway system's data. Analyze different lines, their ridership and potential ridership in the next few years.
 
