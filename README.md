@@ -1,6 +1,11 @@
 # Time Series Exploration
 
-** This is a work in progress **
+
+### This is a work in progress ### 
+
+
+
+
 
 ## Problem Statement
 
